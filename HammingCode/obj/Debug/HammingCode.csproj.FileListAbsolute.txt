@@ -1,0 +1,9 @@
+c:\users\pasha\documents\visual studio 2013\Projects\HammingCode\HammingCode\bin\Debug\HammingCode.exe.config
+c:\users\pasha\documents\visual studio 2013\Projects\HammingCode\HammingCode\bin\Debug\HammingCode.exe
+c:\users\pasha\documents\visual studio 2013\Projects\HammingCode\HammingCode\bin\Debug\HammingCode.pdb
+c:\users\pasha\documents\visual studio 2013\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2013\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.Form1.resources
+c:\users\pasha\documents\visual studio 2013\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.Properties.Resources.resources
+c:\users\pasha\documents\visual studio 2013\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.csproj.GenerateResource.Cache
+c:\users\pasha\documents\visual studio 2013\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.exe
+c:\users\pasha\documents\visual studio 2013\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.pdb
